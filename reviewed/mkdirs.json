@@ -1,5 +1,5 @@
 {
-    "name": "递归创建文件夹",
+    "description": "递归创建文件夹",
     "author": "Daryl Xu",
     "keywords": ["dir", "文件夹", "目录"]
 }
